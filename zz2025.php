@@ -134,7 +134,7 @@ $lang = $_ENV["lang"];
 <section class="section--main section--noMargin">
     <div class="row">
         <div class="medium-12 columns">
-            <p class="p--main"><span class="stat">122 590</span><br>návštěvnic a návštěvníků</p>
+            <p class="p--main"><span class="stat">122 590</span><br>prodaných vstupenek</p>
         </div>
     </div>
 </section>
@@ -146,13 +146,13 @@ $lang = $_ENV["lang"];
     </div>
     <div class="row align-center marginTop marginBottom">
         <div class="large-3 medium-6 small-12 columns text-center marginBottom2"><div class="stat">39 436</div> <strong>Praha</strong></div>
-        <div class="large-3 medium-6 small-12 columns text-center marginBottom2"><div class="stat">1948</div> <strong>Pražské ozvěny</strong></div>
-        <div class="large-3 medium-6 small-12 columns text-center marginBottom2"><div class="stat">77 032</div> <strong>Regiony</strong></div>
+        <div class="large-3 medium-6 small-12 columns text-center marginBottom2"><div class="stat">1 948</div> <strong>Pražské ozvěny</strong></div>
+        <div class="large-3 medium-6 small-12 columns text-center marginBottom2"><div class="stat">81 206</div> <strong>Regiony</strong></div>
     </div>
     <div class="row align-center marginTop marginBottom">
         <div class="large-3 medium-6 small-12 columns text-center marginBottom2"><div class="stat">78 365</div> <strong>Školní projekce </strong></div>
         <div class="large-3 medium-6 small-12 columns text-center marginBottom2"><div class="stat">7</div> <strong>Brusel - počet promítacích míst</strong></div>
-        <div class="large-3 medium-6 small-12 columns text-center marginBottom2"><div class="stat">1321</div> <strong>Brusel - návštěvnost</strong></div>
+        <div class="large-3 medium-6 small-12 columns text-center marginBottom2"><div class="stat">1 321</div> <strong>Brusel - návštěvnost</strong></div>
     </div>
     
 </section>
@@ -193,17 +193,21 @@ $lang = $_ENV["lang"];
         </div>
 
     </div>
-
-    <div class="row align-center marginTop marginBottom">
-        <div class="xlarge-8 medium-8 small-12 columns">
-            <div class="responsive-embed widescreen" style="margin-bottom:0">
-                <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eMVpdf1yQM0?si=VrsUCVf5gWIUkMcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <section class="section--black">
+        <div class="row align-center">
+            <div class="xlarge-8 medium-8 small-12 columns">
+                <div class="responsive-embed widescreen" style="margin-bottom:0">
+                    <video controls poster="">
+                            <source src="/download/video/znelka.mp4" type="video/mp4" />
+                            Sorry, your browser doesn't support embedded videos, but you can
+                            <a href="/download/video/after2025.mp4" download="znelka.mp4">download the MP4</a>
+                    </video>
+                </div>
             </div>
         </div>
-    </div>
-
-    <div class="row align-justify align-middle">
-        <div class="xlarge-5 medium-8 small-12 columns">
+    </section>
+    <div class="row align-justify align-middle marginTop">
+        <div class="xlarge-5 medium-8 small-12 columns marginBottom2">
             <h3>Mise Jednoho světa</h3>
             <p>
             Jeden svět se za 27 let své existence stal největším filmovým festivalem s tematikou lidských práv na světě. Do desítek měst po celé České republice každoročně přináší příběhy bezpráví a boje za svobodu. Slouží jako platforma, jež propojuje tvůrce*kyně ze všech koutů planety a vzdělává o současném dění. </p>
@@ -238,9 +242,9 @@ $lang = $_ENV["lang"];
         </div>
         <div class="xlarge-5 medium-8 small-12 columns marginBottom">
             <p>
-            Za 27 let své existence Jeden svět vybudoval unikátní síť festivalových měst, díky které filmy s lidskoprávní tematikou nepřináší pouze pražskému publiku, ale uvádí je v kinech po celé České republice. </p>
+            Za čtvrtstoletí konání Jeden svět vybudoval unikátní síť festivalových měst, díky které filmy s lidskoprávní tematikou nepřináší pouze pražskému publiku, ale uvádí je v kinech po celé České republice. </p>
             <p>
-            Letošní ročník se vedle Prahy uskutečnil v rekordních 56 českých městech. Vůbec poprvé festival zavítal do Černošic či Humpolce. Každé město má svůj autonomní organizační tým, což dodává Jednomu světu na pestrosti. Lokální publika se kromě samotných projekcí mohou těšit také na debaty s tvůrci*kyněmi či koncerty. </p>
+            Letošní ročník se vedle Prahy uskutečnil v 56 českých městech. Vůbec poprvé festival zavítal do Černošic či Humpolce. Každé město má svůj autonomní organizační tým, což dodává Jednomu světu na pestrosti. Lokální publika se kromě samotných projekcí mohou těšit také na debaty s tvůrci*kyněmi či koncerty. </p>
         </div>
     </div>
 
@@ -254,7 +258,7 @@ $lang = $_ENV["lang"];
             <div class="stat">5</div> <strong>promítacích míst mimo pražské centrum </strong>
         </div>
         <div class="medium-3 columns text-center">
-            <div class="stat">615</div> <strong>diváků*aček</strong>
+            <div class="stat">615</div> <strong>prodaných vstupenek</strong>
         </div>
     </div>
     <div class="row align-center">
@@ -318,14 +322,14 @@ $lang = $_ENV["lang"];
         </div>
     </div>
     <div class="row align-center align-middle marginTop">
-        <div class="xlarge-5 medium-8 small-12 columns">
+        <div class="xlarge-5 medium-8 small-12 columns marginBottom2">
             <p>Příběhy o boji za svobodu či mezilidských vztazích by neměly být určené pouze dospělým. Vedle tradičních promítání proto 27. Jeden svět nabídnul také pestrý výběr školních projekcí zaštítěných iniciativou Jeden svět na školách.</p> 
             <p>
             Obsah školních projekcí je pečlivě uzpůsoben věku publika. Ať už se jedná o diváky*ačky ze základních či středních škol, prioritou je především zasazení témat do širšího kontextu. Po každé školní projekci tak následuje debata, jež mladým divákům*ačkám rozšiřuje obzory a učí je vyjádřit vlastní názor. </p>
             <p>
             Vůbec poprvé na projekce letos zavítaly také 1. a 2. třídy základních škol. Vzdělávací projekce proběhly ve všech 57 městech po celé České republice. </p>
             <p>
-            Jeden svět na školách o lidských právech soustavně vzdělává už xy let. Vedle školních projekcí nabízí platforma i celoroční vzdělávací projekty, do nichž se můžou zapojit studující z celého Česka. </p>
+            Jeden svět na školách o lidských právech soustavně vzdělává už 24 let. Vedle školních projekcí nabízí platforma i celoroční vzdělávací projekty, do nichž se můžou zapojit studující z celého Česka. </p>
         </div>
         <div class="xlarge-5 medium-8 small-12 columns">
             <figure>
@@ -360,7 +364,7 @@ $lang = $_ENV["lang"];
             Jeden svět se řadí mezi nejpřístupnější filmové festivaly na světě. Řídí se mottem “Film pro všechny” a v rámci mezinárodní sítě Human Rights Film Network patří v oblasti přístupnosti mezi lídry.  
             </p>
             <p>
-            27. Jeden svět s filmy pokusil zpřístupnit osobám s fyzickým, smyslovým i mentálním postižením. Nabídnul filmy doplněné audiopopisem a pečlivě zmapoval přístupnost jednotlivých promítacích míst. Organizační tým nezapomněl ani na rodiče s dětmi a přinesl i několik projekcí pro rodiny.   
+            27. Jeden svět se filmy pokusil zpřístupnit osobám s fyzickým, smyslovým i mentálním postižením. Nabídnul filmy doplněné audiopopisem a pečlivě zmapoval přístupnost jednotlivých promítacích míst. Organizační tým nezapomněl ani na rodiče s dětmi a přinesl i několik projekcí pro rodiny.   
             </p>
         </div>
     </div>
@@ -583,7 +587,7 @@ $lang = $_ENV["lang"];
         <div class="xlarge-6 medium-8 small-12 columns marginTop">
             <h3>Homo Homini 2025</h3>
             <p>
-            U příležitosti festivalu Jeden svět je každoročně udělováno ocenění Homo Homini osobnostem, jež se zásadně zasadily za prosazování lidských práv. Letos Výkonná rada Člověka v tísni vůbec poprvé a mimořádně ocenila 2 osobnosti.  
+            U příležitosti festivalu Jeden svět je každoročně udělováno ocenění Homo Homini osobnostem, jež se zásadně zasadily za lidská práva. Letos Výkonná rada Člověka v tísni vůbec poprvé a mimořádně ocenila 2 osobnosti.  
             </p> 
         </div>
     </div>
@@ -602,12 +606,12 @@ $lang = $_ENV["lang"];
         <div class="large-3 medium-6 small-12 columns">
             <article class="article--portraitImg">
                 <figure>    
-                    <img src="imgs/Foto_viktorija2.jpg" alt="Viktorja Rosčyna">
+                    <img src="imgs/Foto_viktorija2.jpg" alt="Viktorie Roščynová">
                     <figcaption>Foto: Slidstvo.Info</figcaption>
                 </figure>
                 <p class="credits">Ukrajinská novinářka</p> 
-                <h4>Viktorja Rosčyna</h4>      
-                <p>Ukrajinská novinářka Viktorja Rosčyna obdržela ocenění Homo Homini za „odvahu vyprávět příběhy Ukrajinců na Ruskem okupovaných územích a za dlouhodobou novinářskou práci věnovanou pokrývání témat ohrožujících demokratické uspořádání Ukrajiny, ze které neslevila ani přes ohrožení osobní bezpečnosti“. Viktorija Roščynová zmizela v srpnu roku 2023 a podle zprávy ruského ministerstva obrany zemřela při převozu z jednoho ruského vězení do druhého.</p>
+                <h4>Viktorie Roščynová</h4>      
+                <p>Ukrajinská novinářka Viktorie Roščynová obdržela ocenění Homo Homini za „odvahu vyprávět příběhy Ukrajinců na Ruskem okupovaných územích a za dlouhodobou novinářskou práci věnovanou pokrývání témat ohrožujících demokratické uspořádání Ukrajiny, ze které neslevila ani přes ohrožení osobní bezpečnosti“. Viktorie Roščynová zmizela v srpnu roku 2023 a podle zprávy ruského ministerstva obrany zemřela při převozu z jednoho ruského vězení do druhého.</p>
             </article>
         </div>
     </div>
@@ -721,6 +725,13 @@ $lang = $_ENV["lang"];
                 </p>
             </article>
         </div>
+        <div class="xlarge-3 large-4 medium-6 small-12 columns">
+            <article  data-equalizer-watch>
+                <img src="https://www.jedensvet.cz/download/imgs/12137_cvt-uvadi.jpg" alt="Dvě osoby s vestami s logem Člověk v tísni stojí venku na zasněžené silnici a hledí na nákladní auto a bagr." title="Člověk v tísni uvádí" loading="lazy">
+                <h4>Člověk v tísni uvádí</h4>
+                
+            </article>
+        </div>
     </div>
 
     <div class="row align-center">
@@ -745,7 +756,7 @@ $lang = $_ENV["lang"];
         <div class="large-6 medium-12 columns">
             <p>Jedním ze základních pilířů Jednoho světa jsou debaty, jež témata jednotlivých filmů rozvíjejí a uvádějí je do kontextu. Prioritou organizačního týmu je tak především utváření bezpečného prostoru, v rámci kterého má každý názor stejnou hodnotu. </p>
             <p>
-            Debatní program letos nabídnul hned několik diskuzních formátů, do nichž se vedle zahraničního a českého hoststva zapojilo také publikum. Diváci*čky mohli vybírat ze cinefilních filmových pitev i expertních a panelových debat. Právě po panelových a expertních debatách dostalo publikum možnost hlasovat o Divácké ceně nadačního fondu Abakus za mimořádnou debatu, generálního partnera festivalu.
+            Debatní program letos nabídnul hned několik diskuzních formátů, do nichž se vedle zahraničního a českého hoststva zapojilo také publikum. Diváci*čky mohli vybírat ze cinefilních filmových pitev i expertních a panelových debat. Právě po panelových a expertních debatách dostalo publikum možnost hlasovat o Divácké ceně nadačního fondu Abakus za mimořádnou debatu.
             </p>
         </div>
     </div>
@@ -859,7 +870,7 @@ $lang = $_ENV["lang"];
                 <p class="credits">režisér</p>
                 <h3>Reza Bird</h3>
                 <p>režisér snímku Revoluce 3.0</p>
-                <p>Oceňovaný íránský režisér žijící v americkém exilu. Ve své tvorbě propojuje příběhy s aktivismem a k filmovému médiu přistupuje jako k nástroji pozitivních soiálních a politických změn.</p>
+                <p>Oceňovaný íránský režisér žijící v americkém exilu. Ve své tvorbě propojuje příběhy s aktivismem a k filmovému médiu přistupuje jako k nástroji pozitivních sociálních a politických změn.</p>
             </article>
         </div>
         <div class="xlarge-3 large-4 medium-6 small-12 columns">
@@ -902,7 +913,7 @@ $lang = $_ENV["lang"];
             Jeden svět projekcemi v kinosálech už dávno nekončí. Díky streamovací platformě Jeden svět online je vybrané filmy možné zhlédnout po celý rok i z pohodlí domova. 
             </p>
             <p>
-            Jeden svět online, unikátní VOD platforma, nabízí desítky dokumentárních i hraných filmů a to nejlepší z předchozích let festivalu. Na začátku května 2025 platformu doplnil také výběr 10 dokumentů z aktuálního ročníku.Jako první v České republice letos Jeden svět online rozšířil svou nabídku také o snímky s audiopopisem.  
+            Jeden svět online, unikátní VOD platforma, nabízí desítky dokumentárních i hraných filmů a to nejlepší z předchozích let festivalu. Na začátku května 2025 platformu doplnil také výběr 10 dokumentů z aktuálního ročníku. Jako první v České republice letos Jeden svět online rozšířil svou nabídku také o snímky s audiopopisem.  
             </p>
         </div>
         
@@ -918,7 +929,7 @@ $lang = $_ENV["lang"];
     </div>
     <div class="row align-center marginBottom">
         <div class="large-3 medium-4 small-12 columns text-center marginBottom2">
-            <div class="stat">1321</div> <strong>diváků*aček</strong>
+            <div class="stat">1321</div> <strong>prodaných vstupenek</strong>
         </div>
         <div class="large-3 medium-4 small-12 columns text-center">
             <div class="stat">7</div> <strong>promítacích míst v Bruselu </strong>
@@ -941,23 +952,27 @@ $lang = $_ENV["lang"];
         </div>
     </div>
     <div class="row align-center marginTop3">
-        <div class="medium-4 columns">
+        <div class="medium-5 columns">
             <article>
                 <figure>
                     <img alt="Žádná jiná země" src="https://muj.jedensvet.cz/filmimages/image.ashx?I=2&amp;W=437&amp;H=243&amp;ID=0&amp;IMGID=19718" loading="lazy" class="lazyload">
                     <figcaption>Foto: Yabayay Media, Antipode Films</figcaption>
                 </figure>   
-                <p><strong>Cenu Poroty Jednoho světa v Bruselu za nejlepší film získal snímek Žádná jiná země.</strong></p>
+                <p class="credits">Cena Poroty Jednoho světa v Bruselu za nejlepší film</p>
+                <h3>Žádná jiná země</h3>
+                <p>režie: Basel Adra, Hamdan Ballal, Rachel Szor, Yuval Abraham</p>
                 <p> Film natočený palestinsko-izraelským kolektivem zachycuje systematické násilí, jež izraelská armáda páchá na palestinckém obyvatelstvu, i nečekané přátelství mezi palestinským aktivistou Báselem a izraelským novinářem Yuvalem. </p>
             </article>
         </div>
-        <div class="medium-4 columns">
+        <div class="medium-5 columns">
             <article>
                 <figure>
                     <img alt="Křídla z prachu" src="https://muj.jedensvet.cz/filmimages/image.ashx?I=2&amp;W=437&amp;H=243&amp;ID=0&amp;IMGID=19848" loading="lazy" class="lazyload">
                     <figcaption>Foto: 5 Stick Films</figcaption>
                 </figure> 
-                <p><strong>Zvláštní uznání Poroty Jednoho světa v Bruselu získal snímek Křídla z prachu.</strong></p>
+                <p class="credits">Zvláštní uznání Poroty Jednoho světa v Bruselu</p>
+                <h3>Křídla z prachu</h3>
+                <p>režie: Giorgio Ghiotto</p>
                 <p> Dokument Giorgia Ghiotta odehrávající se mezi původními obyvateli Peru upozorňuje na environmentální a sociální nespravedlnost. </p>
             </article>
         </div>
@@ -970,13 +985,13 @@ $lang = $_ENV["lang"];
     </div>
     <div class="row align-center marginTop">
         <div class="large-3 medium-4 small-12 columns text-center marginBottom2">
-            <div class="stat">&gt; 3000</div><strong>více než 3000 registorvaných promítačů*ek po celém Česku</strong>
+            <div class="stat">&gt; 3000</div><strong>více než 3000 registrovaných promítačů*ek po celém Česku</strong>
         </div>
         <div class="large-3 medium-4 small-12 columns text-center marginBottom2">    
-            <div class="stat">695</div> <strong>projekci za rok 2024</strong>
+            <div class="stat">695</div> <strong>projekcí za rok 2024</strong>
         </div>    
         <div class="large-3 medium-4 small-12 columns text-center marginBottom2">
-            <div class="stat">&gt; 80</div><strong>více než 80 filmů </strong>
+            <div class="stat">70</div><strong>filmů</strong>
         </div>
     </div>
     <div class="row align-center marginTop2 marginBottom align-middle">
@@ -989,7 +1004,7 @@ $lang = $_ENV["lang"];
         
         <div class="xlarge-5 medium-8 small-12 columns marginTop2">
             <p>
-            Díky celoročnímu projektu Promítej Jeden svět! Může vlastní komunitní projekci uspořádat kdokoliv - ať už v místním kině nebo na zahradě. Registrovaní*é promítači*ky mohou vybírat z více než 70 filmů z posledních 14. festivalových ročníků. Promítej Jeden svět! je tak zcela unikátní platformou, jež slouží jako distribuční alternativa lidskoprávních filmů a zprostředkovává prostor pro diskuzi o aktuálních společenských a politických otázkách po celý rok.   
+            Díky celoročnímu projektu Promítej Jeden svět! může vlastní komunitní projekci uspořádat kdokoliv - ať už v místním kině nebo na zahradě. Registrovaní*é promítači*ky mohou vybírat z více než 70 filmů z posledních 14. festivalových ročníků. Promítej Jeden svět! je tak zcela unikátní platformou, jež slouží jako distribuční alternativa lidskoprávních filmů a zprostředkovává prostor pro diskuzi o aktuálních společenských a politických otázkách po celý rok.   
             </p>
         </div>
 </section>           
