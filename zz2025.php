@@ -248,17 +248,20 @@ $lang = $_ENV["lang"];
         </div>
     </div>
 
-    <div class="row align-center">
+    <div class="row align-center marginTop">
         <div class="xlarge-8 medium-8 small-12 columns text-center marginBottom2">
             <h3>Pražské ozvěny</h3>
         </div>
     </div>
     <div class="row align-center marginBottom2">
-        <div class="medium-3 columns text-center">
+        <div class="large-2 medium-6 small-12 columns text-center marginBottom2 columns text-center">
             <div class="stat">5</div> <strong>promítacích míst mimo pražské centrum </strong>
         </div>
-        <div class="medium-3 columns text-center">
-            <div class="stat">615</div> <strong>prodaných vstupenek</strong>
+        <div class="large-2 medium-6 small-12 columns text-center marginBottom2 columns text-center">
+            <div class="stat">615</div> <strong>prodaných vstupenek veřejnost</strong>
+        </div>
+        <div class="large-2 medium-6 small-12 columns text-center marginBottom2 columns text-center">
+            <div class="stat">1 333</div> <strong>prodaných vstupenek školní projekce</strong>
         </div>
     </div>
     <div class="row align-center">
@@ -281,7 +284,7 @@ $lang = $_ENV["lang"];
                             WHERE mt.id_flagsTables = 63 AND mt.idInTable = 43
                             ORDER BY mt.sequence DESC");
     ?>
-    <div class="row align-center marginTop">
+    <div class="row align-center marginTop marginBottom">
         <div class="medium-8 columns">
             <div class="orbit" role="region" aria-label="Favorite Space Pictures" data-orbit>
                 <div class="orbit-wrapper">
@@ -313,15 +316,18 @@ $lang = $_ENV["lang"];
             <h3>Jeden svět na školách</h3>
         </div>
     </div>
-    <div class="row align-center marginTop">
-        <div class="medium-3 columns text-center">
+    <div class="row align-center marginTop2">
+        <div class="large-2 medium-6 small-12 columns text-center marginBottom2 columns text-center">
             <div class="stat">17 009</div> <strong>žáků*aček, studentů*ek a učitelů*ek v Praze </strong>
         </div>
-        <div class="medium-3 columns text-center">
-        <div class="stat">xx xxx</div> <strong>žáků*aček, studentů*ek a učitelů*ek v regionech</strong>
+        <div class="large-2 medium-6 small-12 columns text-center marginBottom2 columns text-center">
+            <div class="stat">1 333</div> <strong>žáků*aček, studentů*ek, učitelů*ek v rámci Pražských ozvěn</strong>
+        </div>
+        <div class="large-2 medium-6 small-12 columns text-center marginBottom2 columns text-center">
+            <div class="stat">60 023</div> <strong>žáků*aček, studentů*ek, učitelů*ek v regionech</strong>
         </div>
     </div>
-    <div class="row align-center align-middle marginTop">
+    <div class="row align-center align-middle marginTop2">
         <div class="xlarge-5 medium-8 small-12 columns marginBottom2">
             <p>Příběhy o boji za svobodu či mezilidských vztazích by neměly být určené pouze dospělým. Vedle tradičních promítání proto 27. Jeden svět nabídnul také pestrý výběr školních projekcí zaštítěných iniciativou Jeden svět na školách.</p> 
             <p>
