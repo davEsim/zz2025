@@ -1,5 +1,4 @@
 <?
-//$galleries = new xGalleries($db, "xGalleries");
 $lang = $_ENV["lang"];
 ?>
 
