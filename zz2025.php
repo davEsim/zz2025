@@ -63,7 +63,7 @@ $lang = $_ENV["lang"];
         color: #df323c;
         margin-bottom: .3rem;
     }
-
+@media screen and (min-width: 460px)
     .article--imgH300 img{
         height: 300px;
     }
