@@ -272,7 +272,7 @@ $lang = $_ENV["lang"];
     <div class="row align-center marginTop">
         <div class="xlarge-6 medium-8 small-12 columns">
             <p>
-            Na hlavní část festivalu po jejím skončení navázaly Pražské ozvěny. Místní publikum letos mělo možnost zhlédnout vybrané lidskoprávní filmy v rekordních 5 kinech mimo pražské centrum, mimo jiné v Kině Kavalírka či Modřanském Biografu. Organizátoři*rky z jednotlivých promítacích míst si filmový program sestavili sami a k vidění byla citlivá sociální dramata i sondy do konfliktních oblastí. </p>
+            Na hlavní část festivalu po jejím skončení navázaly Pražské ozvěny. Místní publikum letos mělo možnost zhlédnout vybrané lidskoprávní filmy v 5 kinech mimo pražské centrum, mimo jiné v Kině Kavalírka či Modřanském Biografu. Organizátoři*rky z jednotlivých promítacích míst si filmový program sestavili sami a k vidění byla citlivá sociální dramata i sondy do konfliktních oblastí. </p>
             
         </div>
     </div>
