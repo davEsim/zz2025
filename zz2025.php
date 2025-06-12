@@ -310,7 +310,7 @@ $lang = $_ENV["lang"];
         </div>
     </div>
 
-    <div class="row align-center marginTop">
+    <div class="row align-center marginTop marginBottom">
         <div class="xlarge-6 medium-8 small-12 columns text-center">
             <h3>Jeden svět na školách</h3>
         </div>
@@ -327,7 +327,7 @@ $lang = $_ENV["lang"];
         </div>
     </div>
     <div class="row align-center align-middle marginTop2">
-        <div class="xlarge-5 medium-8 small-12 columns marginBottom2">
+        <div class="xlarge-5 medium-8 small-12 columns marginBottom2 small-order-2">
             <p>Příběhy o boji za svobodu či mezilidských vztazích by neměly být určené pouze dospělým. Vedle tradičních promítání proto 27. Jeden svět nabídnul také pestrý výběr školních projekcí zaštítěných iniciativou Jeden svět na školách.</p> 
             <p>
             Obsah školních projekcí je pečlivě uzpůsoben věku publika. Ať už se jedná o diváky*ačky ze základních či středních škol, prioritou je především zasazení témat do širšího kontextu. Po každé školní projekci tak následuje debata, jež mladým divákům*ačkám rozšiřuje obzory a učí je vyjádřit vlastní názor. </p>
@@ -336,9 +336,9 @@ $lang = $_ENV["lang"];
             <p>
             Jeden svět na školách o lidských právech soustavně vzdělává už 24 let. Vedle školních projekcí nabízí platforma i celoroční vzdělávací projekty, do nichž se můžou zapojit studující z celého Česka. </p>
         </div>
-        <div class="xlarge-5 medium-8 small-12 columns">
+        <div class="xlarge-5 medium-8 small-12 columns small-order-1">
             <figure>
-                <img src="imgs/Foto_jsns.jpg" alt="Jeden svět na školách">
+                <img src="imgs/Foto_jsns.jpg" alt="Jeden svět na školách" class="marginBottom1">
                 <figcaption>Foto: Karolína Malá</figcaption>
             </figure> 
         </div>    
@@ -356,7 +356,7 @@ $lang = $_ENV["lang"];
             <figcaption>Foto: Lukáš Bíba</figcaption>
         </figure> 
         </div>
-        <div class="medium-2 columns text-center">
+        <div class="medium-2 columns text-center marginTop2 marginBottom2">
             <div class="stat">4</div> <strong>filmy s audiopopisem</strong><br><br>
             <div class="stat">3</div> <strong>relaxované projekce</strong><br><br>
             <div class="stat">18</div> <strong>filmů s SDH titulky</strong><br><br>
@@ -957,7 +957,7 @@ $lang = $_ENV["lang"];
         </div>
     </div>
     <div class="row align-center marginTop3">
-        <div class="medium-5 columns">
+        <div class="medium-5 small-12 columns">
             <article>
                 <figure>
                     <img alt="Žádná jiná země" src="https://muj.jedensvet.cz/filmimages/image.ashx?I=2&amp;W=437&amp;H=243&amp;ID=0&amp;IMGID=19718" loading="lazy" class="lazyload">
@@ -969,7 +969,7 @@ $lang = $_ENV["lang"];
                 <p> Film natočený palestinsko-izraelským kolektivem zachycuje systematické násilí, jež izraelská armáda páchá na palestinckém obyvatelstvu, i nečekané přátelství mezi palestinským aktivistou Báselem a izraelským novinářem Yuvalem. </p>
             </article>
         </div>
-        <div class="medium-5 columns">
+        <div class="medium-5 small-12 columns">
             <article>
                 <figure>
                     <img alt="Křídla z prachu" src="https://muj.jedensvet.cz/filmimages/image.ashx?I=2&amp;W=437&amp;H=243&amp;ID=0&amp;IMGID=19848" loading="lazy" class="lazyload">
@@ -1009,7 +1009,7 @@ $lang = $_ENV["lang"];
         
         <div class="xlarge-5 medium-8 small-12 columns marginTop2">
             <p>
-            Díky celoročnímu projektu Promítej Jeden svět! může vlastní komunitní projekci uspořádat kdokoliv - ať už v místním kině nebo na zahradě. Registrovaní*é promítači*ky mohou vybírat z více než 70 filmů z posledních 14. festivalových ročníků. Promítej Jeden svět! je tak zcela unikátní platformou, jež slouží jako distribuční alternativa lidskoprávních filmů a zprostředkovává prostor pro diskuzi o aktuálních společenských a politických otázkách po celý rok.   
+            Díky celoročnímu projektu Promítej Jeden svět! může vlastní komunitní projekci uspořádat kdokoliv - ať už v místním kině nebo na zahradě. Registrovaní*é promítači*ky mohou vybírat z 70 filmů z posledních 14 festivalových ročníků. Promítej Jeden svět! je tak zcela unikátní platformou, jež slouží jako distribuční alternativa lidskoprávních filmů a zprostředkovává prostor pro diskuzi o aktuálních společenských a politických otázkách po celý rok.   
             </p>
         </div>
 </section>           
