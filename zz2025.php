@@ -746,7 +746,7 @@ Foto: © Vaiva Bezhan
     <div class="row align-center marginTop marginBottom">
      <div class="xlarge-10 medium-10 small-12 columns text-center">
       <figure>
-       <img alt="Dva moderní, lesklé joja s červeno-bílým vzorem leží na písku, jedno stojí a druhé je položeno na boku." class="hero__img" loading="lazy" src="imgs/Foto_ceny.jpg" title="porota ceske souteze"/>
+       <img alt="Dvě lesklé porcelánové ceny s oblým tvarem a organickým vzorem v odstínech červené a bílé, vytvořené pro Jeden svět 2025, znázorňující dvě propojené planety. Na spodní části jedné z cen je zřetelně vygravírováno logo festivalu a rok udělení." class="hero__img" loading="lazy" src="imgs/Foto_ceny.jpg" title="porota ceske souteze"/>
        <figcaption>
         Foto: Lukáš Bíba
        </figcaption>
